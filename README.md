@@ -73,7 +73,7 @@
 
 高清电子版-[Java语言程序设计-进阶篇(原书第8版)].pdf     [百度云下载链接](https://pan.baidu.com/s/1Zjy3yCtuY1GWlukjX_RdtA)   密码:1234
 
-高清电子版-AOP的实现机制.pdf     [百度云下载链接](https://pan.baidu.com/s/1vPqEgcC6bQqiaLT7kxwYIQA)   密码:1234
+高清电子版-AOP的实现机制.pdf     [百度云下载链接](https://pan.baidu.com/s/1xzo8aL4V4HoX2qDawg9eZQ)   密码:1234
 
 高清电子版-Apache服务器配置与使用工作笔记.pdf     [百度云下载链接](https://pan.baidu.com/s/1tqd7kYRrL-pNvQfM70QSXA)   密码:1234
 
@@ -497,7 +497,7 @@
 
 高清电子版-MySQL性能调优与架构设计--全册.pdf         [百度云下载链接](https://pan.baidu.com/s/1chkgwejpNLlpjoxOMpEByw)  密码:1234
 
-高清电子版-Mysql性能优化教程.pdf         [百度云下载链接](https://pan.baidu.com/s/1Y1eGEV3ksZKmcvHhEOkqgg)  密码:1234
+高清电子版-Mysql性能优化教程.pdf         [百度云下载链接](https://pan.baidu.com/s/1Vbwifjj7pSDxW8qMpex53Q)  密码:1234
 
 高清电子版-Sql Cookbook中文版.pdf          [百度云下载链接](https://pan.baidu.com/s/1KdPy-d2vUAkM4YUDaLXLrg)  密码:1234
 
