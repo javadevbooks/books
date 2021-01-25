@@ -646,7 +646,7 @@
 高清电子版-Head_First_Python（中文版）.pdf  [百度云下载链接](https://pan.baidu.com/s/1f7c5wUnsODx4JSGypgPX5Q)   密码:12qw
 高清电子版-Intermediate_Python中文译本.pdf  [百度云下载链接](https://pan.baidu.com/s/1pZhXbR7KVvbEPgmq-vhYKg)   密码:12qw
 高清电子版-Keras中文手册.pdf  [百度云下载链接](https://pan.baidu.com/s/112D5Yr58kpBk8DRrmpxLaA)   密码:12qw
-高清电子版-NumPy攻略Python科学计算与数据分析［（印尼）IvanIdris著；张崇明译］［人民邮电出版社］［2013.10］［174页］.pdf  [百度云下载链接](https://pan.baidu.com/s/1j3fHpI8Iee1Lb2Y-6oObrQ)   密码:12qw
+高清电子版-NumPy攻略__Python科学计算与数据分析_［（印尼）IvanIdris著；张崇明译］［人民邮电出版社］［2013.10］［174页］.pdf  [百度云下载链接](https://pan.baidu.com/s/1j3fHpI8Iee1Lb2Y-6oObrQ)   密码:12qw
 高清电子版-Phthon编程金典.pdf  [百度云下载链接](https://pan.baidu.com/s/1oVrDVTQhr5pDzgGE67A1AA)   密码:12qw
 高清电子版-python cookbook(第3版)高清中文完整版(###).pdf  [百度云下载链接](https://pan.baidu.com/s/1MYrcx9gw2AeIUW08dJJfrw)   密码:12qw
 高清电子版-PYTHON QT GUI快速编程 PYQT编程指南  马克·萨默菲尔德  P444  2016.08.pdf  [百度云下载链接](https://pan.baidu.com/s/1qoHaYPgjGfz9ysqKtWpb3Q)   密码:12qw
@@ -688,7 +688,7 @@
 高清电子版-Python开发实战.pdf  [百度云下载链接](https://pan.baidu.com/s/125ZOLyZEpAciXM7DvEbcYQ)   密码:12qw
 高清电子版-Python科学计算(#).pdf  [百度云下载链接](https://pan.baidu.com/s/1bl3gGDk0eL6_lmYxYJ_Bbw)   密码:12qw
 高清电子版-Python科学计算张若愚.pdf  [百度云下载链接](https://pan.baidu.com/s/1ihmEVrU2vr4Ktrp7yCTe9w)   密码:12qw
-高清电子版-PYTHON面向对象编程指南 （美）STEVEN F.LOTT著；张心韬，兰亮译[人民邮电出版.pdf [百度云下载链接](https://pan.baidu.com/s/1ySRu8NYHcnSFT2AMrsbm1g)   密码:12qw
+高清电子版-PYTHON面向对象编程指南 [（美）STEVEN F.LOTT著；张心韬，兰亮译][人民邮电出版.pdf  [百度云下载链接](https://pan.baidu.com/s/1ySRu8NYHcnSFT2AMrsbm1g)   密码:12qw
 高清电子版-Python爬虫开发与项目实战.pdf  [百度云下载链接](https://pan.baidu.com/s/1ykAq9ddzK8MqyhYrMqMRRg)   密码:12qw
 高清电子版-Python入门经典_以解决计算问题为导向的Python编程.pdf  [百度云下载链接](https://pan.baidu.com/s/1yi78_WkG4EyDKcG1eUCIiQ)   密码:12qw
 高清电子版-Python数据处理(###).pdf  [百度云下载链接](https://pan.baidu.com/s/1UnWqvFR63lh573tLtANdlw)   密码:12qw
@@ -867,6 +867,8 @@
 高清电子版-腾讯2016研发工程师笔试真题三.pdf  [百度云下载链接](https://pan.baidu.com/s/1ZOZtefq0Q5gejmTW2X5hkw)   密码:12qw
 高清电子版-腾讯2016研发工程师笔试真题一.pdf  [百度云下载链接](https://pan.baidu.com/s/1loeFqtANV0wwIiXxjRdKog)   密码:12qw
 高清电子版-微服务 面试题-发布版.pdf  [百度云下载链接](https://pan.baidu.com/s/1SrNKa4I8enW0ooeZN6DleQ)   密码:12qw
+
+
 
 
 
