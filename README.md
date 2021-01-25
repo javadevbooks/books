@@ -12,7 +12,6 @@
 [电子书籍思维导图查看地址](https://gitee.com/javadevbooks/books/raw/master/%E7%BC%96%E7%A8%8B%E7%94%B5%E5%AD%90%E4%B9%A6%E5%85%A8%E9%9B%86%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 
 
-
 # Java基础篇
 
 高清电子版-21天学通JAVA.pdf  [百度云下载链接](https://pan.baidu.com/s/1eDOrrAqyo5CekBYst54ucA)   密码:12qw
@@ -199,7 +198,7 @@
 
 # Spring Data篇
 
-高清电子版-Spring Data JPA从入门到精通_张振华(著)  清华大学出版社.pdf  [百度云下载链接](https://pan.baidu.com/s/1jpMdAbXexFgfAm4zyvzYQQ)   密码:12qw
+高清电子版-Spring Data JPA从入门到精通_张振华(著)  .pdf  [百度云下载链接](https://pan.baidu.com/s/1jpMdAbXexFgfAm4zyvzYQQ)   密码:12qw
 高清电子版-Spring Data实战.pdf  [百度云下载链接](https://pan.baidu.com/s/1Ezl0u6hdePs8o_Vu7YuQfQ)   密码:12qw
 
 
@@ -259,7 +258,7 @@
 高清电子版-Maven权威指南_中文完整版清晰.pdf  [百度云下载链接](https://pan.baidu.com/s/1rLCbdfmeDnfUNDpik-uh2Q)   密码:12qw
 高清电子版-Maven实战（高清完整带书签）.pdf  [百度云下载链接](https://pan.baidu.com/s/1EyPBCPrV6p6wTLY4yA1vlA)   密码:12qw
 高清电子版-Myeclipse 10 激活详解过程.pdf  [百度云下载链接](https://pan.baidu.com/s/1q_6nOBvcmxm-roJR8CGHLg)   密码:12qw
-高清电子版-PowerDesigner 16系统分析与建模实战  高清 电子书 pdf 下载 [李波，孙宪丽，关颖编著][清华大学出版社][2014.07][374页]sample.pdf  [百度云下载链接](https://pan.baidu.com/s/1LIsqv-czlOvJoLuCvDDYMQ)   密码:12qw
+高清电子版-PowerDesigner 16系统分析与建模实战.pdf  [百度云下载链接](https://pan.baidu.com/s/1LIsqv-czlOvJoLuCvDDYMQ)   密码:12qw
 高清电子版-Pro Git 中文版本.pdf  [百度云下载链接](https://pan.baidu.com/s/1uU2yKGugpsFnWND46M3QgA)   密码:12qw
 高清电子版-《Git版本控制管理（第2版）》迷你书.pdf  [百度云下载链接](https://pan.baidu.com/s/1N6zga88sRs67X9bXBcYGYg)   密码:12qw
 高清电子版-从+0+开始学习+GitHub+系列.pdf  [百度云下载链接](https://pan.baidu.com/s/1-9h4YQ1wopXAgNP2kWPPQw)   密码:12qw
@@ -667,7 +666,7 @@
 高清电子版-Python编程导论第2版_2018（#）.pdf  [百度云下载链接](https://pan.baidu.com/s/1SN00RiJ_LfG57kT9hm51_w)   密码:12qw
 高清电子版-Python编程快速上手—让繁琐工作自动化_PDF中文高清晰完整版.pdf  [百度云下载链接](https://pan.baidu.com/s/1BoAC_WZwvxeVhEpfzTDkBA)   密码:12qw
 高清电子版-Python编程入门经典.pdf  [百度云下载链接](https://pan.baidu.com/s/1f4CDG5vRv_pqb60nSRx_HA)   密码:12qw
-高清电子版-Python编程实战__运用设计模式、并发和程序库完整版.pdf  [百度云下载链接](https://pan.baidu.com/s/1bYL4vwoy8m07e5M1vru0_w)   密码:12qw
+高清电子版-Python编程实战__运用设计模式、并发和程序库创建高质量程序_PDF电子书下载_带书签目录_完整版.pdf  [百度云下载链接](https://pan.baidu.com/s/1bYL4vwoy8m07e5M1vru0_w)   密码:12qw
 高清电子版-python标准库.pdf  [百度云下载链接](https://pan.baidu.com/s/1anJw6kEb1EJih6wN7rVmKQ)   密码:12qw
 高清电子版-Python参考手册(第4版).pdf  [百度云下载链接](https://pan.baidu.com/s/16nVtC8LwZJI6PXZ4-hQwyQ)   密码:12qw
 高清电子版-Python程序员指南.pdf  [百度云下载链接](https://pan.baidu.com/s/1y8gvD0ij3BbWPAOKK9Q3Sg)   密码:12qw
@@ -690,8 +689,7 @@
 高清电子版-Python开发实战.pdf  [百度云下载链接](https://pan.baidu.com/s/125ZOLyZEpAciXM7DvEbcYQ)   密码:12qw
 高清电子版-Python科学计算(#).pdf  [百度云下载链接](https://pan.baidu.com/s/1bl3gGDk0eL6_lmYxYJ_Bbw)   密码:12qw
 高清电子版-Python科学计算张若愚.pdf  [百度云下载链接](https://pan.baidu.com/s/1ihmEVrU2vr4Ktrp7yCTe9w)   密码:12qw
-高清电子版-PYTHON面向对象编程指南 [人民邮电出版.pdf [百度云下载链接](https://pan.baidu.com/s/1ySRu8NYHcnSFT2AMrsbm1g)   密码:12qw
-
+高清电子版-PYTHON面向对象编程指南 （美）STEVEN F.LOTT著；张心韬，兰亮译[人民邮电出版.pdf [百度云下载链接](https://pan.baidu.com/s/1ySRu8NYHcnSFT2AMrsbm1g)   密码:12qw
 高清电子版-Python爬虫开发与项目实战.pdf  [百度云下载链接](https://pan.baidu.com/s/1ykAq9ddzK8MqyhYrMqMRRg)   密码:12qw
 高清电子版-Python入门经典_以解决计算问题为导向的Python编程.pdf  [百度云下载链接](https://pan.baidu.com/s/1yi78_WkG4EyDKcG1eUCIiQ)   密码:12qw
 高清电子版-Python数据处理(###).pdf  [百度云下载链接](https://pan.baidu.com/s/1UnWqvFR63lh573tLtANdlw)   密码:12qw
@@ -738,7 +736,7 @@
 高清电子版-深入Python3中文版.pdf  [百度云下载链接](https://pan.baidu.com/s/1hLhgpEM8Ts7atAXYDs62Yg)   密码:12qw
 高清电子版-深入理解机器学习－从原理到算法［沙伊.沙莱夫－施瓦茨］.pdf  [百度云下载链接](https://pan.baidu.com/s/18EA8YjiUiV8KdB9BhnaCoQ)   密码:12qw
 高清电子版-神经网络和深度学习.pdf  [百度云下载链接](https://pan.baidu.com/s/1mDvGzTLLkXsWW4--H02WUA)   密码:12qw
-高清电子版-数据结构与算法__Python语言描述_裘宗燕编著_北京：机械工业出版社_，_2016.01_P346.pdf  [百度云下载链接](https://pan.baidu.com/s/1ibodBW4MXe7LqT52DDOfow)   密码:12qw
+高清电子版-数据结构与算法__Python语言描述_裘宗燕编著_北京.pdf  [百度云下载链接](https://pan.baidu.com/s/1ibodBW4MXe7LqT52DDOfow)   密码:12qw
 高清电子版-数据科学入门.pdf  [百度云下载链接](https://pan.baidu.com/s/18Yj5xCUS5kMJtVs7rXVNRw)   密码:12qw
 高清电子版-网络爬虫－Python和数据分析.pdf  [百度云下载链接](https://pan.baidu.com/s/1wsUK9xpJ_vQY9uFlVxGdhg)   密码:12qw
 高清电子版-用Python进行自然语言处理(中文翻译NLTK).pdf  [百度云下载链接](https://pan.baidu.com/s/1JP1VPMBuSIUrG8fB8RhdAQ)   密码:12qw
@@ -807,7 +805,7 @@
 高清电子版-Visual C#.NET案例开发集锦.pdf  [百度云下载链接](https://pan.baidu.com/s/1mGCUMuISxZbYGsWLuJRkfQ)   密码:12qw
 高清电子版-visual.c#.net.网络核心编程.pdf  [百度云下载链接](https://pan.baidu.com/s/1RSoTBGgAODI5YrP1VxxEVA)   密码:12qw
 高清电子版-VisualC#数据库高级教程.pdf  [百度云下载链接](https://pan.baidu.com/s/1b0KA55cadVkI0_6CZjz7ag)   密码:12qw
-高清电子版-[C#与.NET4高级程序设计（第5版）].pdf  [百度云下载链接](https://pan.baidu.com/s/1zsDhcL3WQV3BKLz6Rpn6OQ)   密码:12qw
+高清电子版-[C#与.NET4高级程序设计（第5版）]张大磊等.扫描版.pdf  [百度云下载链接](https://pan.baidu.com/s/1zsDhcL3WQV3BKLz6Rpn6OQ)   密码:12qw
 高清电子版-[C#与.NET程序员面试宝典].靳华.胡鑫鑫.扫描版.pdf  [百度云下载链接](https://pan.baidu.com/s/1INn-dPKgNTi0wvpMpSQtnw)   密码:12qw
 高清电子版-【名师解惑】传智播客.net培训-名师解惑：.net应该学什么？怎么学？（1）.pdf  [百度云下载链接](https://pan.baidu.com/s/1IpsAQGnz8dhMzQE4rJ8VVQ)   密码:12qw
 高清电子版-【名师解惑】传智播客.net培训-名师解惑：.net应该学什么？怎么学？（2）.pdf  [百度云下载链接](https://pan.baidu.com/s/17Lwoq1dkYYr_WdlyEWvHLA)   密码:12qw
@@ -870,6 +868,9 @@
 高清电子版-腾讯2016研发工程师笔试真题三.pdf  [百度云下载链接](https://pan.baidu.com/s/1ZOZtefq0Q5gejmTW2X5hkw)   密码:12qw
 高清电子版-腾讯2016研发工程师笔试真题一.pdf  [百度云下载链接](https://pan.baidu.com/s/1loeFqtANV0wwIiXxjRdKog)   密码:12qw
 高清电子版-微服务 面试题-发布版.pdf  [百度云下载链接](https://pan.baidu.com/s/1SrNKa4I8enW0ooeZN6DleQ)   密码:12qw
+
+
+
 
 
 
